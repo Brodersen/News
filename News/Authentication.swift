@@ -12,7 +12,7 @@ class Authentication {
 
 	// FIXME: Exposed API Key!
 	#warning("Exposed API key for demo purposes only!")
-	static let apiKey = "70c09b9d5b964edc85f20fbdcb23aae1"
+	static let apiKey = "6a23e716efe44fbf9ee63fe0da8fa011"
 	
 	
 }
