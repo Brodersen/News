@@ -1,7 +1,7 @@
 # News app based on NewsAPI
 App Project developed for a Tech Interview challenge.
 
-## Notes:
+## Features
 
 The News app uses the NewsAPI to fetch news articles using the [NewsAPI](https://newsapi.org).
 
