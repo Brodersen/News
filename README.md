@@ -13,4 +13,4 @@ The app features pagination and _infinite scroll_ to load five articles at a tim
 
 ***Note: The API Key used in this demo app is exposed and likely is out of free API requests. Use your own if needed or get one [here](https://newsapi.org/register).***
 
-For question, contact [brodersen@me.com](mailto:brodersen@me.com).
+For questions, contact [brodersen@me.com](mailto:brodersen@me.com).
