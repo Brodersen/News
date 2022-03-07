@@ -5,7 +5,7 @@ App Project developed for a Tech Interview challenge.
 
 This simple news app uses [NewsAPI](https://newsapi.org) to fetch articles from various news sources.
 
-The apps main screen is initially populated with articles from the **[Top Headlines](https://newsapi.org/docs/endpoints/top-headlines)**-endpoint and whenever the search query is reset (empty).
+The apps main screen is initially populated with articles from the **[Top Headlines](https://newsapi.org/docs/endpoints/top-headlines)**-endpoint and whenever the search query is reset (is empty).
 
 Use the search field in the top bar to search for articles by typing a query. Searching for articles this way uses the **[Everything](https://newsapi.org/docs/endpoints/everything)**-endpoint.
 
