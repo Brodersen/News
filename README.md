@@ -1,3 +1,7 @@
+
+![App Icon](https://github.com/Brodersen/News/blob/main/News/Assets.xcassets/AppIcon.appiconset/144.png?raw=true)
+
+
 # News app based on NewsAPI
 App Project developed for a Tech Interview challenge.
 
